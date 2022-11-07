@@ -1,0 +1,16 @@
+ion-con {
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+}
+
+.display-4 {
+    padding: 8px 0;
+    font-size: 28px !important;
+    font-weight: 800 !important;
+}
+
+.darkblue {
+    background-color: rgb(63, 61, 66) !important;
+    color: #FFF;
+    font-size: 12px;
+}
